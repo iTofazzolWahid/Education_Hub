@@ -1,4 +1,4 @@
-"use strict";
+
 
 // navbar variables
 const navbarNav = document.querySelector(".navbar-nav");
